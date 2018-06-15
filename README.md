@@ -5,9 +5,11 @@ Fridump (v0.1) is an open source memory dumping tool, primarily aimed to penetra
 How to:
 
 
- "`
+ `
+ 
  fridump [-h] [-o dir] [-u] [-v] [-r] [-s] [--max-size bytes] process
- "`
+ 
+ `
  
 The following are the main flags that can be used with fridump:
 
