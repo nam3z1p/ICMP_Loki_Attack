@@ -26,16 +26,16 @@ optional arguments:
 # Installation
 To install ICMP_Loki_Attack you just need to clone it from git and run it:
 ```
-  git clone https://github.com/nam3z1p/ICMP_Loki_Attack.git
+ git clone https://github.com/nam3z1p/ICMP_Loki_Attack.git
         
-  python ICMP_Loki_Attack.py -h
+ python ICMP_Loki_Attack.py -h
 ```
 
 # Pre-requisites
 To use ICMP_Loki_Attack you need to have Scapy installed on your python environment. The easiest way to install Scapy on your python is using pip:
 
 ```
-pip install scapy
+ pip install scapy
 ```
 More information on how to install Scapy can be found [here](https://scapy.net/)
 
