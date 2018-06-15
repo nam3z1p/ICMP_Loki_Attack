@@ -34,7 +34,7 @@ To install ICMP_Loki_Attack you just need to clone it from git and run it:
 To use ICMP_Loki_Attack you need to have Scapy installed on your python environment. The easiest way to install Scapy on your python is using pip:
 
 pip install scapy
-More information on how to install Scapy can be found here(https://scapy.net/)
+More information on how to install Scapy can be found [here](https://scapy.net/)
 
 # Disclaimer
 This is version of the software, so I expect some bugs to be present
